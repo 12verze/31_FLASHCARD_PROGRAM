@@ -1,0 +1,19 @@
+handling error and exceptions
+try:
+except: if u use it plane without putting error name it will ignore all errors in try
+else: if no error is found it will run
+finally: piece of code which will always run
+raise: to raise our own exception
+
+
+
+
+
+
+
+
+
+
+
+
+
